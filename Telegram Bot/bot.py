@@ -10,5 +10,6 @@ def get_todo_list():
 
 def append_todo_list():
 
+def delete_from_todo_list():
 
   
