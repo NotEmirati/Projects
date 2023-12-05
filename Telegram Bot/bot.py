@@ -2,6 +2,8 @@ import os
 import sys
 import telebot
 
+def greeting():
+
 def get_current_weather():
 
 def get_current_time():
