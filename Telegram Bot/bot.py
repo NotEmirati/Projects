@@ -15,3 +15,5 @@ def append_todo_list():
 def delete_from_todo_list():
 
 def save_data_item():  
+
+def get_data_item():  
