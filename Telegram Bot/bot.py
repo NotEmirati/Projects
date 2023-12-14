@@ -29,3 +29,5 @@ def create_reminder():
 def repeat_reminder():
 
 def delete_reminder():  
+
+def reactivate_reminder():
