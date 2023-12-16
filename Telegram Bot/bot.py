@@ -4,6 +4,8 @@ import telebot
 
 def greeting():
 
+def show_menu():
+
 def get_current_weather():
 
 def get_current_time():
@@ -30,6 +32,6 @@ def repeat_reminder():
 
 def delete_reminder():  
 
-def reactivate_reminder():
-
 def get_reminders_list():  
+
+
