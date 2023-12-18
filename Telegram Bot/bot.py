@@ -36,4 +36,4 @@ def delete_reminder():
 
 def get_reminders_list():  
 
-
+def wipe_reminders():
