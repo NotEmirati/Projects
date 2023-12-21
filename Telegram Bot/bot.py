@@ -41,3 +41,5 @@ def get_random_number_in_range(a, b):
 def get_reminders_list():  
 
 def wipe_reminders():
+
+def show_currency_rate(currency1: str, currency2: str):
