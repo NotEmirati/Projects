@@ -49,3 +49,5 @@ def calculate():
 def entertain():
 
 def decision_making():  
+
+def add_counter():
