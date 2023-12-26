@@ -51,3 +51,5 @@ def entertain():
 def decision_making():  
 
 def add_counter():
+
+def get_prediction():  
