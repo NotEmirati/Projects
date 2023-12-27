@@ -53,3 +53,5 @@ def decision_making():
 def add_counter():
 
 def get_prediction():  
+
+def send_message():  
