@@ -55,3 +55,5 @@ def add_counter():
 def get_prediction():  
 
 def send_message():  
+
+def send_photo():
