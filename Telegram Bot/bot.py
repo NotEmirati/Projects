@@ -57,3 +57,5 @@ def get_prediction():
 def send_message():  
 
 def send_photo():
+
+def prioritize():  
