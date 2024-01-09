@@ -77,3 +77,5 @@ def specify():
 def initiate():
 
 def iterate():  
+
+def negotiate():
