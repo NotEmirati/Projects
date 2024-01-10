@@ -79,3 +79,5 @@ def initiate():
 def iterate():  
 
 def negotiate():
+
+def cross_out():
