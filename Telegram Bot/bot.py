@@ -81,3 +81,5 @@ def iterate():
 def negotiate():
 
 def cross_out():
+
+def send():
