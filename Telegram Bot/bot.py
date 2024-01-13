@@ -85,3 +85,5 @@ def cross_out():
 def send():
 
 def receive():  
+
+def reset():
