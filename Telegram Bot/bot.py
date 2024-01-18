@@ -95,3 +95,5 @@ def finish():
 def create():  
 
 def stop():
+
+def pause():
