@@ -97,3 +97,5 @@ def create():
 def stop():
 
 def pause():
+
+def capitalize():
