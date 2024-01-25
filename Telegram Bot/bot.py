@@ -109,3 +109,5 @@ def transfer():
 def package():  
 
 def automate():
+
+def reject():
