@@ -120,3 +120,5 @@ def resubmit():
 
 def pass():
     pass 
+
+def generate_code():
