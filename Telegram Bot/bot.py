@@ -122,3 +122,5 @@ def pass():
     pass 
 
 def generate_code():
+
+def subscribe():
