@@ -128,3 +128,5 @@ def subscribe():
 def leave():
 
 def sign_out():  
+
+def drop():
