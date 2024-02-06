@@ -134,3 +134,5 @@ def drop():
 def keep_up():
 
 def add_contact():
+
+def remove_contact():
