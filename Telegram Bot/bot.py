@@ -138,3 +138,5 @@ def add_contact():
 def remove_contact():
 
 def block():
+
+def cover():
