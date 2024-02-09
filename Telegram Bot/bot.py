@@ -140,3 +140,5 @@ def remove_contact():
 def block():
 
 def cover():
+
+def release(): 
