@@ -148,3 +148,5 @@ def recover():
 def build():
 
 def key_log():
+
+def increase():
