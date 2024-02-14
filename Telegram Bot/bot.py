@@ -150,3 +150,5 @@ def build():
 def key_log():
 
 def increase():
+
+def decrease():  
