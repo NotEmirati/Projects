@@ -152,3 +152,5 @@ def key_log():
 def increase():
 
 def decrease():  
+
+def median():
