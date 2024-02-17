@@ -156,3 +156,5 @@ def decrease():
 def median():
 
 def calculus():
+
+def average():
