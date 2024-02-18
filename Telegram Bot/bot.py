@@ -158,3 +158,5 @@ def median():
 def calculus():
 
 def average():
+
+def max():
