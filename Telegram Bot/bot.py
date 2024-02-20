@@ -162,3 +162,5 @@ def average():
 def max():
 
 def min():
+
+def calculate():
