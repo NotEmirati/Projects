@@ -164,3 +164,5 @@ def max():
 def min():
 
 def calculate():
+
+def guess():
