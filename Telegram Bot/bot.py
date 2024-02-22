@@ -166,3 +166,5 @@ def min():
 def calculate():
 
 def guess():
+
+def try_out():
