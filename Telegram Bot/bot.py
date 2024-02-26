@@ -170,3 +170,5 @@ def guess():
 def try_out():
 
 def finalize():
+
+def shift():
