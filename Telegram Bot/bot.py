@@ -174,3 +174,5 @@ def finalize():
 def shift():
 
 def advance():
+
+def fluctuate():
