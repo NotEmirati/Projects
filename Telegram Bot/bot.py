@@ -176,3 +176,5 @@ def shift():
 def advance():
 
 def fluctuate():
+
+def skyrocket():
