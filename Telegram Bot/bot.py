@@ -180,3 +180,5 @@ def fluctuate():
 def skyrocket():
 
 def stagnate():
+
+def synchronize():
