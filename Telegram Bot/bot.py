@@ -182,3 +182,5 @@ def skyrocket():
 def stagnate():
 
 def synchronize():
+
+def desync():
