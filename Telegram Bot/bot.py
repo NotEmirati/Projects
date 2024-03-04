@@ -184,3 +184,5 @@ def stagnate():
 def synchronize():
 
 def desync():
+
+def drop():
