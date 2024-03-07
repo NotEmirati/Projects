@@ -190,3 +190,5 @@ def drop():
 def down():
 
 def fulfill():
+
+def erase():
