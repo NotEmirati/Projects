@@ -196,3 +196,5 @@ def erase():
 def redo():
 
 def undo():
+
+def wipe():
