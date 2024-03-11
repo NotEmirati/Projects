@@ -198,3 +198,5 @@ def redo():
 def undo():
 
 def wipe():
+
+def clear():
