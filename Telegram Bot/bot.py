@@ -200,3 +200,5 @@ def undo():
 def wipe():
 
 def clear():
+
+def spam():
