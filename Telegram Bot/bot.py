@@ -202,3 +202,5 @@ def wipe():
 def clear():
 
 def spam():
+
+def halt():
