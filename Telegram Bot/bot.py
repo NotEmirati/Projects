@@ -204,3 +204,5 @@ def clear():
 def spam():
 
 def halt():
+
+def hack():
