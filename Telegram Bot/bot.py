@@ -206,3 +206,5 @@ def spam():
 def halt():
 
 def hack():
+
+def protect():
