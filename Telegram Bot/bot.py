@@ -208,3 +208,5 @@ def halt():
 def hack():
 
 def protect():
+
+def expose():
