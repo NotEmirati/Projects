@@ -210,3 +210,5 @@ def hack():
 def protect():
 
 def expose():
+
+def shield():
