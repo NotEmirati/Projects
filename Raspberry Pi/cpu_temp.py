@@ -12,3 +12,6 @@ def write_temp(temp):
   with open(".home/username/cpu_temp.csv", "a") as log:
     log.write("{0},{1}\n".format(strftime("%Y-%m-%d %H:%M:%S"), str(temp)))
 
+def graph(temp):
+  y.append(time)
+  x.append(time())
