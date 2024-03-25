@@ -20,3 +20,8 @@ def graph(temp):
     plt.plot(x,y)
     plt.draw()
       
+while True: 
+    temp = cpu.temperature
+    write_temp(temp)
+#    graph(temp)
+    plt.pause(10)
