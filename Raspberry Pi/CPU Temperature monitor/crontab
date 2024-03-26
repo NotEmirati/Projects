@@ -1,1 +1,1 @@
-
+@reboot python3 /home/username/cpu_temp.py
