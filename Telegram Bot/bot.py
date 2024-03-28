@@ -214,3 +214,5 @@ def expose():
 def shield():
 
 def cover():
+
+def emulate():
