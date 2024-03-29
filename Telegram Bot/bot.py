@@ -216,3 +216,5 @@ def shield():
 def cover():
 
 def emulate():
+
+def splash():
