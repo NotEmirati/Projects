@@ -222,3 +222,5 @@ def splash():
 def overhead():
 
 def overload():
+
+def collapse():
