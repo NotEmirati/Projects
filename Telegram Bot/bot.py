@@ -230,3 +230,5 @@ def rework():
 def neglect():
 
 def negotiate():
+
+def magnify():
