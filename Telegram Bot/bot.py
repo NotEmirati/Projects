@@ -232,3 +232,5 @@ def neglect():
 def negotiate():
 
 def magnify():
+
+def slate():
