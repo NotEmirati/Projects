@@ -234,3 +234,5 @@ def negotiate():
 def magnify():
 
 def slate():
+
+def suppress():
