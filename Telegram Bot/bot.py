@@ -236,3 +236,5 @@ def magnify():
 def slate():
 
 def suppress():
+
+def defeat():
