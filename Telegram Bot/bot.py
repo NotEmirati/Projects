@@ -238,3 +238,5 @@ def slate():
 def suppress():
 
 def defeat():
+
+def win():
