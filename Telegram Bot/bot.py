@@ -242,3 +242,5 @@ def defeat():
 def win():
 
 def draw():
+
+def fix():
