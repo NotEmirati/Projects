@@ -244,3 +244,5 @@ def win():
 def draw():
 
 def fix():
+
+def cry():
