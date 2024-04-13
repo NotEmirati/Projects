@@ -246,3 +246,5 @@ def draw():
 def fix():
 
 def cry():
+
+def inspect():
