@@ -248,3 +248,5 @@ def fix():
 def cry():
 
 def inspect():
+
+def decrease(): 
