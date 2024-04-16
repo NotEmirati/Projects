@@ -251,3 +251,5 @@ def cry():
 def inspect():
 
 def decrease(): 
+
+def dig():
