@@ -253,3 +253,5 @@ def inspect():
 def decrease(): 
 
 def dig():
+
+def climb():
