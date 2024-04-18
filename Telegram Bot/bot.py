@@ -255,3 +255,5 @@ def decrease():
 def dig():
 
 def climb():
+
+def draw():
