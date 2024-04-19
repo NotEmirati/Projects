@@ -257,3 +257,5 @@ def dig():
 def climb():
 
 def draw():
+
+def maul():
