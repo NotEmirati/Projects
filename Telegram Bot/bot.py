@@ -261,3 +261,5 @@ def draw():
 def maul():
 
 def drop():
+
+def crop():
