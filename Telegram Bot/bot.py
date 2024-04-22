@@ -263,3 +263,5 @@ def maul():
 def drop():
 
 def crop():
+
+def cut():
