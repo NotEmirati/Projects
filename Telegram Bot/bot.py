@@ -265,3 +265,5 @@ def drop():
 def crop():
 
 def cut():
+
+def delete():
