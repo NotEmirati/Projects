@@ -269,3 +269,5 @@ def cut():
 def delete():
 
 def cut():
+
+def insulate():
