@@ -273,3 +273,5 @@ def cut():
 def insulate():
 
 def incapacitate():
+
+def hack():
