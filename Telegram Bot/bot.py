@@ -275,3 +275,5 @@ def insulate():
 def incapacitate():
 
 def hack():
+
+def protect():
