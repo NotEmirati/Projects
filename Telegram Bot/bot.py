@@ -277,3 +277,5 @@ def incapacitate():
 def hack():
 
 def protect():
+
+def block():
