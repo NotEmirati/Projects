@@ -279,3 +279,5 @@ def hack():
 def protect():
 
 def block():
+
+def write():
