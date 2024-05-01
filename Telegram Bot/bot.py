@@ -281,3 +281,5 @@ def protect():
 def block():
 
 def write():
+
+def close():
