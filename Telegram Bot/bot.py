@@ -283,3 +283,5 @@ def block():
 def write():
 
 def close():
+
+def crap():
