@@ -285,3 +285,5 @@ def write():
 def close():
 
 def crap():
+
+def cover():
