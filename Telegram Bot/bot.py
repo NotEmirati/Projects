@@ -287,3 +287,5 @@ def close():
 def crap():
 
 def cover():
+
+def define():
