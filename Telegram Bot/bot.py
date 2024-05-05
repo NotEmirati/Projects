@@ -282,10 +282,4 @@ def block():
 
 def write():
 
-def close():
 
-def crap():
-
-def cover():
-
-def define():
