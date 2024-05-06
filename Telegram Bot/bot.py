@@ -7,8 +7,6 @@ def greeting():
 
 def show_menu():
 
-def get_random_fact():  
-
 def get_current_weather():
 
 def get_current_time():
