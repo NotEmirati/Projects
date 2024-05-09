@@ -13,8 +13,6 @@ def get_current_time():
 
 def append_todo_list():
 
-def delete_from_todo_list():
-
 def wipe_todo_list():  
 
 def get_data_item():  
