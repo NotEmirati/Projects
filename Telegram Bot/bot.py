@@ -11,8 +11,6 @@ def get_current_weather():
 
 def get_current_time():
 
-def append_todo_list():  
-
 def get_data_item():  
 
 def delete_data_item():
