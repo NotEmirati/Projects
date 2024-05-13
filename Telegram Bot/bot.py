@@ -17,8 +17,6 @@ def show_data_item_list():
 
 def modify_data_item():
 
-def create_reminder():   
-
 def repeat_reminder():
 
 def delete_reminder():  
