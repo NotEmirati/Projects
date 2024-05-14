@@ -11,8 +11,6 @@ def get_current_weather():
 
 def get_current_time():  
 
-def delete_data_item():
-
 def show_data_item_list():
 
 def modify_data_item():
