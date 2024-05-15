@@ -9,8 +9,6 @@ def show_menu():
 
 def get_current_weather():
 
-def get_current_time():  
-
 def show_data_item_list():
 
 def modify_data_item():
