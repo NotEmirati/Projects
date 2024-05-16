@@ -15,8 +15,6 @@ def modify_data_item():
 
 def repeat_reminder():
 
-def delete_reminder():  
-
 def get_random_number_in_range(a, b):  
 
 def get_reminders_list():  
