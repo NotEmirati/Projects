@@ -25,8 +25,6 @@ def show_currency_rate(currency1: str, currency2: str):
 
 def calculate():  
 
-def entertain():
-
 def decision_making():  
 
 def add_counter():
