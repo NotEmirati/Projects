@@ -15,8 +15,6 @@ def modify_data_item():
 
 def repeat_reminder():
 
-def get_reminders_list():  
-
 def wipe_reminders():
 
 def show_currency_rate(currency1: str, currency2: str):
