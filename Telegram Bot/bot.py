@@ -11,8 +11,6 @@ def get_current_weather():
 
 def show_data_item_list():
 
-def modify_data_item():
-
 def repeat_reminder():
 
 def wipe_reminders():
