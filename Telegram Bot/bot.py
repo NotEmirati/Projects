@@ -13,8 +13,6 @@ def show_data_item_list():
 
 def repeat_reminder():
 
-def wipe_reminders():
-
 def show_currency_rate(currency1: str, currency2: str):
 
 def calculate():  
