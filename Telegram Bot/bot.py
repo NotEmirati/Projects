@@ -11,8 +11,6 @@ def get_current_weather():
 
 def show_data_item_list():
 
-def repeat_reminder():
-
 def show_currency_rate(currency1: str, currency2: str):
 
 def decision_making():  
