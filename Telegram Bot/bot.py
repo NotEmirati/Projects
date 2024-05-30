@@ -13,8 +13,6 @@ def add_counter():
 
 def send_message():  
 
-def prioritize():  
-
 def send_file():  
 
 def delete_file():
