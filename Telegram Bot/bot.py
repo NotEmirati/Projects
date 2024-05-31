@@ -9,9 +9,7 @@ def show_menu():
 
 def show_currency_rate(currency1: str, currency2: str):
 
-def add_counter():
-
-def send_message():  
+def add_counter(): 
 
 def send_file():  
 
