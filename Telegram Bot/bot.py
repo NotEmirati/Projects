@@ -12,8 +12,6 @@ def show_currency_rate(currency1: str, currency2: str):
 def add_counter(): 
 
 def delete_file():
-  
-def iterate():
 
 def launch():  
 
