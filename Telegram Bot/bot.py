@@ -13,8 +13,6 @@ def add_counter():
 
 def delete_file():
 
-def launch():  
-
 def initiate():
 
 def iterate():  
