@@ -13,8 +13,6 @@ def add_counter():
 
 def delete_file():
 
-def initiate():
-
 def iterate():  
 
 def negotiate():
