@@ -13,8 +13,6 @@ def add_counter():
 
 def delete_file():
 
-def cross_out():
-
 def send():
 
 def receive():  
