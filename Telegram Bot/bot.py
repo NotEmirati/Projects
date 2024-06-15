@@ -11,8 +11,6 @@ def show_currency_rate(currency1: str, currency2: str):
 
 def receive():  
 
-def finish():
-
 def create():  
 
 def stop():
