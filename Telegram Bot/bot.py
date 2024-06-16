@@ -17,8 +17,6 @@ def stop():
 
 def pause():
 
-def capitalize():
-
 def suspend():  
 
 def setup():  
