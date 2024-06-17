@@ -13,8 +13,6 @@ def receive():
 
 def create():  
 
-def stop():
-
 def pause():
 
 def suspend():  
