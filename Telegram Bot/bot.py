@@ -15,8 +15,6 @@ def suspend():
 
 def setup():  
 
-def package():  
-
 def automate():
 
 def reject():
