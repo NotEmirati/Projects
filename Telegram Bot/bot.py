@@ -13,8 +13,6 @@ def create():
 
 def suspend():  
 
-def setup():  
-
 def reject():
 
 def approve():
