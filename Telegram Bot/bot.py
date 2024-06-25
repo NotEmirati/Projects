@@ -17,8 +17,6 @@ def approve():
 
 def handle():
 
-def resubmit():
-
 def pass():
     pass 
 
