@@ -13,8 +13,6 @@ def create():
 
 def approve():
 
-def handle():
-
 def pass():
     pass 
 
