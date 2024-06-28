@@ -13,9 +13,6 @@ def create():
 
 def approve():
 
-def pass():
-    pass 
-
 def generate_code():
 
 def subscribe():
