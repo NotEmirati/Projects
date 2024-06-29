@@ -15,8 +15,6 @@ def approve():
 
 def generate_code():
 
-def subscribe():
-
 def leave():
 
 def sign_out():  
