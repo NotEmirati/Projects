@@ -13,8 +13,6 @@ def create():
 
 def approve():
 
-def generate_code():
-
 def leave():
 
 def sign_out():  
