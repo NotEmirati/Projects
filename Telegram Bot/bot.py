@@ -13,9 +13,7 @@ def create():
 
 def approve():
 
-def leave():
-
-def sign_out():  
+def leave():  
 
 def drop():
 
