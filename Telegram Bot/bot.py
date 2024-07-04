@@ -15,8 +15,6 @@ def leave():
 
 def keep_up():
 
-def add_contact():
-
 def remove_contact():
 
 def block():
