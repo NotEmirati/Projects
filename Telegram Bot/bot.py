@@ -13,8 +13,6 @@ def approve():
 
 def leave():  
 
-def keep_up():
-
 def remove_contact():
 
 def block():
