@@ -15,8 +15,6 @@ def cover():
 
 def release(): 
 
-def build():
-
 def key_log():
 
 def increase():
