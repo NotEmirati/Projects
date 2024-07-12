@@ -13,8 +13,6 @@ def approve():
 
 def cover():
 
-def key_log():
-
 def increase():
 
 def decrease():  
