@@ -13,8 +13,6 @@ def approve():
 
 def cover():
 
-def increase():
-
 def decrease():  
 
 def median():
