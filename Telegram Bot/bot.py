@@ -11,9 +11,7 @@ def show_currency_rate(currency1: str, currency2: str):
 
 def approve():
 
-def cover():
-
-def decrease():  
+def cover(): 
 
 def median():
 
