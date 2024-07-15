@@ -7,8 +7,6 @@ def greeting():
 
 def show_menu():
 
-def show_currency_rate(currency1: str, currency2: str):
-
 def approve():
 
 def cover(): 
