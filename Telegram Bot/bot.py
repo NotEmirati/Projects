@@ -5,8 +5,6 @@ import telebot
 def greeting():
   raise NotImplementedError('greeting() is missing code.')
 
-def show_menu():
-
 def approve():
 
 def cover(): 
