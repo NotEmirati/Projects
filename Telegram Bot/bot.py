@@ -7,8 +7,6 @@ def greeting():
 
 def approve():
 
-def cover(): 
-
 def median():
 
 def calculus():
