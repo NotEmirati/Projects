@@ -11,8 +11,6 @@ def median():
 
 def calculus():
 
-def max():
-
 def min():
 
 def calculate():
