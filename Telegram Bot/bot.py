@@ -9,8 +9,6 @@ def approve():
 
 def median():
 
-def calculus():
-
 def min():
 
 def calculate():
