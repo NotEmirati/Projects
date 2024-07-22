@@ -9,8 +9,6 @@ def approve():
 
 def median():
 
-def calculate():
-
 def guess():
 
 def try_out():
