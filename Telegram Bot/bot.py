@@ -11,8 +11,6 @@ def median():
 
 def try_out():
 
-def shift():
-
 def advance():
 
 def fluctuate():
