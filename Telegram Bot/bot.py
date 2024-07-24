@@ -11,8 +11,6 @@ def median():
 
 def try_out():
 
-def finalize():
-
 def shift():
 
 def advance():
