@@ -9,8 +9,6 @@ def approve():
 
 def median():
 
-def try_out():
-
 def advance():
 
 def fluctuate():
