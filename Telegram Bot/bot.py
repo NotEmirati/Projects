@@ -15,8 +15,6 @@ def fluctuate():
 
 def desync():
 
-def drop():
-
 def down():
 
 def fulfill():
