@@ -13,8 +13,6 @@ def advance():
 
 def fluctuate():
 
-def desync():
-
 def down():
 
 def fulfill():
