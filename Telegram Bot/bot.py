@@ -13,8 +13,6 @@ def fluctuate():
 
 def down():
 
-def fulfill():
-
 def erase():
 
 def redo():
