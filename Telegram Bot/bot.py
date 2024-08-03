@@ -12,8 +12,6 @@ def down():
 
 def erase():
 
-def redo():
-
 def undo():
 
 def wipe():
