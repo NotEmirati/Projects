@@ -6,8 +6,6 @@ def approve():
 
 def median():
 
-def down():
-
 def erase():
 
 def undo():
