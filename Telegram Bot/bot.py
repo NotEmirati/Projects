@@ -6,8 +6,6 @@ def approve():
 
 def median():
 
-def wipe():
-
 def spam():
 
 def halt():
