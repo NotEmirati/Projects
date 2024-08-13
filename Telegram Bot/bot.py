@@ -10,8 +10,6 @@ def hack():
 
 def protect():
 
-def shield():
-
 def cover():
 
 def emulate():
