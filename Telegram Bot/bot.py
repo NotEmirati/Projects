@@ -4,8 +4,6 @@ import telebot
 
 def approve():
 
-def median():
-
 def hack():
 
 def protect():
