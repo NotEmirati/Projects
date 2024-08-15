@@ -4,8 +4,6 @@ import telebot
 
 def approve():
 
-def hack():
-
 def protect():
 
 def cover():
