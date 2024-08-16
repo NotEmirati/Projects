@@ -2,8 +2,6 @@ import os
 import sys
 import telebot
 
-def approve():
-
 def protect():
 
 def cover():
