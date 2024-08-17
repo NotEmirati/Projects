@@ -2,8 +2,6 @@ import os
 import sys
 import telebot
 
-def protect():
-
 def cover():
 
 def emulate():
