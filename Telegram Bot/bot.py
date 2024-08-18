@@ -4,8 +4,6 @@ import telebot
 
 def cover():
 
-def emulate():
-
 def splash():
 
 def overhead():
