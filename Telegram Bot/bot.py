@@ -2,8 +2,6 @@ import os
 import sys
 import telebot
 
-def cover():
-
 def splash():
 
 def overload():
