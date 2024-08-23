@@ -10,8 +10,6 @@ def collapse():
 
 def neglect():
 
-def magnify():
-
 def slate():
 
 def suppress():
