@@ -6,8 +6,6 @@ def splash():
 
 def overload():
 
-def collapse():
-
 def neglect():
 
 def slate():
