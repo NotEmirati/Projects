@@ -6,8 +6,6 @@ def splash():
 
 def overload():
 
-def slate():
-
 def suppress():
 
 def defeat():
