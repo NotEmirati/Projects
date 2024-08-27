@@ -8,9 +8,6 @@ def overload():
 
 def suppress():
 
-def defeat():
-
-def win():
 
 def draw():
 
