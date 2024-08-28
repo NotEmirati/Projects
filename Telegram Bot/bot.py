@@ -4,8 +4,6 @@ import telebot
 
 def splash():
 
-def overload():
-
 def suppress():
 
 def fix():
