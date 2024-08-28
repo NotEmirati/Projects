@@ -8,9 +8,6 @@ def overload():
 
 def suppress():
 
-
-def draw():
-
 def fix():
 
 def cry():
