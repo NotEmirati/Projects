@@ -14,6 +14,8 @@ def inspect():
 
 def decrease(): 
 
+def supply():
+
 def dig():
 
 def climb():
