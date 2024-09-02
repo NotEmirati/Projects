@@ -7,8 +7,6 @@ def splash():
 def fix():
 
 def cry():
-  
-def dig():
 
 def climb():
 
