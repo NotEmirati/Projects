@@ -10,8 +10,6 @@ def cry():
 
 def climb():
 
-def draw():
-
 def maul():
 
 def drop():
