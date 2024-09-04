@@ -8,8 +8,6 @@ def fix():
 
 def cry():
 
-def climb():
-
 def maul():
 
 def drop():
