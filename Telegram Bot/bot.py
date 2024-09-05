@@ -4,8 +4,6 @@ import telebot
 
 def splash():
 
-def fix():
-
 def cry():
 
 def maul():
