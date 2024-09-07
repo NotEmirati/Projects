@@ -8,8 +8,6 @@ def cry():
 
 def maul():
 
-def drop():
-
 def cut():
 
 def delete():
