@@ -6,8 +6,6 @@ def splash():
 
 def cry():
 
-def cut():
-
 def delete():
 
 def cut():
