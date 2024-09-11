@@ -8,8 +8,6 @@ def cry():
 
 def delete():
 
-def cut():
-
 def insulate():
   
 def hack():
