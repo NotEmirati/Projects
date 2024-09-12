@@ -6,8 +6,6 @@ def splash():
 
 def cry():
 
-def delete():
-
 def insulate():
   
 def hack():
