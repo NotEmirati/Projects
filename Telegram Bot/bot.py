@@ -4,8 +4,6 @@ import telebot
 
 def splash():
 
-def block():
-
 def write():
 
 
