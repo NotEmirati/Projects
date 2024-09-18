@@ -6,4 +6,6 @@ def splash():
 
 def write():
 
+def validate():
+
 
