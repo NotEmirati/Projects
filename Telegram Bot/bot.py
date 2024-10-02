@@ -4,4 +4,3 @@ import telebot
 
 def main():
 
-def increase():
