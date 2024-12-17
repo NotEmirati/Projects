@@ -3,3 +3,4 @@ import sys
 import telebot
 
 
+def main():
